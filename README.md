@@ -48,4 +48,4 @@ with JSON body with following schema:
 
 SOME RIGHTS RESERVED
 
-See [License](https://github.com/electrolytic/electrolytic/LICENSE.md)
+See [License](https://github.com/Electrolytic/electrolytic/blob/master/LICENSE.md)
