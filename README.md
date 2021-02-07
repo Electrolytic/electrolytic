@@ -37,10 +37,10 @@ with JSON body with following schema:
 
 ```javascript
 {
-	"appKey": "<You-App-Key>",
-	"appSecret": "<Your-App-Secret>",
-	"target": ["<token>"], // should be an array. multiple tokens can be used to send same push to all of them
-	"payload": "hola, here's a push!" // can also be a JSON object
+  "appKey": "<You-App-Key>",
+  "appSecret": "<Your-App-Secret>",
+  "target": ["<token>"], // should always be an array. multiple tokens can be used to send same payload to all of them.
+  "payload": "hola, here's a push!" // can also be a JSON object
 }
 ```
 
