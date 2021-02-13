@@ -1,6 +1,6 @@
 # Electrolytic
 
-![Electrolytic on NPM](https://img.shields.io/npm/v/electrolytic?color=green&label=Electrolytic%20on%20NPM&logo=Electrolytic%20on%20NPM&style=for-the-badge)
+[![Electrolytic on NPM](https://img.shields.io/npm/v/electrolytic?color=green&label=Electrolytic%20on%20NPM&logo=Electrolytic%20on%20NPM&style=for-the-badge)](https://www.npmjs.com/package/electrolytic)
 
 A suite of features to make your desktop apps even more powerful 💪
 
